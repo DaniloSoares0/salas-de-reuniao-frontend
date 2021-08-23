@@ -1,6 +1,13 @@
-# FrondendSalasreuniao
+# Frontend - Salas de Reunião
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
+
+## Projeto desenvolvido durante uma live code
+
+O objetivo da live era transmitir os conceitos básicos do funcionamento de um cliente Angular
+
+![alt text](https://github.com/Projeto-Pratico-DIO/salas-de-reuniao-frontend/blob/master/src/assets/img/principal.PNG)
+
 
 ## Development server
 
